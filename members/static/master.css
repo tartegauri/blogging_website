@@ -1,0 +1,12 @@
+.container{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items:flex-start;
+    flex-wrap:wrap;
+}
+.container div{
+    width:10px;
+    height:100px;
+    background-color: black;
+}

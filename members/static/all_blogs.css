@@ -1,0 +1,46 @@
+html{
+    margin:0;
+    padding:0;
+}
+body{
+    width:100%;
+    margin:0;
+    padding:0;
+    min-height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.login{
+    color:white;
+    text-decoration: none;
+    background-color: black;
+    width:200px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+body > div {
+    padding:20px;
+    width:80%;
+}
+.contain{
+    border: 3px solid black;
+    padding:10px;
+    margin:5px 0;
+    height: 200px;
+}
+
+.contain > h2{
+    margin:5px;
+}
+
+.contain > a{
+    margin : 2px 10px;
+}
+
+p {
+    width:100%;
+    overflow: hidden;
+}

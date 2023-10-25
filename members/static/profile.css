@@ -1,0 +1,33 @@
+.profile {
+    background-color: black;
+    padding:20px;
+    width:95%;
+    display: flex;
+    justify-content:space-between;
+    border-radius: 10px;
+}
+.profile > h1{
+    color:white;
+}
+.profile > a {
+    color:white;
+}
+
+.contain{
+    border: 3px solid black;
+    padding:10px;
+    margin:5px 0;
+    height: 200px;
+}
+
+.contain > h2{
+    margin:5px;
+}
+
+.contain > a{
+    margin : 2px 10px;
+}
+.contain > p {
+    width:100%;
+    overflow: hidden;
+}
